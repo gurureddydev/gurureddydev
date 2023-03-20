@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm E.H.Guru Prasad Reddy</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-https://cdn.dribbble.com/users/1876781/screenshots/6169542/media/d368a5f71afcbeb7d6e55cbdc8401ade.gif
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
