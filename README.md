@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi 👋 I'm E. Guru Prasad Reddy
 
-<!--
-**gurureddydev/gurureddydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer | Kotlin | Java  
+📍 Bangalore, India
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- Android Developer with MVVM experience
+- Strong in Kotlin & Java
+- Building clean, scalable Android apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- Kotlin, Java
+- Android SDK, Jetpack
+- MVVM Architecture
+- Firebase, REST APIs
+- Git & GitHub
+
+### 📌 Projects
+- 📱 EChats – Chat application
+- 📊 FinancialTracker – Expense tracker
+- 🧠 DataStructuresAndAlgorithms – Java DSA
+
+### 🌐 Connect with Me
+- Portfolio: https://gurureddy.netlify.app
+- LinkedIn: https://linkedin.com/in/e-h-guru-prasad-reddy-733420217
